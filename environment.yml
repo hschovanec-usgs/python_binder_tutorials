@@ -1,4 +1,4 @@
-name: binder-environment
+name: tutorials
 channels:
     - conda-forge
     - defaults
